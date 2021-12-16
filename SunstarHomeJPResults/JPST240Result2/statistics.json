@@ -1,0 +1,32 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1416,
+    "errorCount" : 11,
+    "errorPct" : 0.77683616,
+    "meanResTime" : 2789.0755649717516,
+    "minResTime" : 65.0,
+    "maxResTime" : 180299.0,
+    "pct1ResTime" : 2275.3,
+    "pct2ResTime" : 2950.5499999999975,
+    "pct3ResTime" : 60448.96,
+    "throughput" : 7.077239876448185,
+    "receivedKBytesPerSec" : 200.25223366012256,
+    "sentKBytesPerSec" : 0.8846403418291866
+  },
+  "Sunstar Home Japan" : {
+    "transaction" : "Sunstar Home Japan",
+    "sampleCount" : 1416,
+    "errorCount" : 11,
+    "errorPct" : 0.77683616,
+    "meanResTime" : 2789.0755649717516,
+    "minResTime" : 65.0,
+    "maxResTime" : 180299.0,
+    "pct1ResTime" : 2275.3,
+    "pct2ResTime" : 2950.5499999999975,
+    "pct3ResTime" : 60448.96,
+    "throughput" : 7.077239876448185,
+    "receivedKBytesPerSec" : 200.25223366012256,
+    "sentKBytesPerSec" : 0.8846403418291866
+  }
+}

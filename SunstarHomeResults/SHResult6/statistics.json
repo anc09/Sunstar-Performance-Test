@@ -1,0 +1,32 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 78820,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 46.393529561025105,
+    "minResTime" : 10.0,
+    "maxResTime" : 7665.0,
+    "pct1ResTime" : 33.0,
+    "pct2ResTime" : 37.0,
+    "pct3ResTime" : 46.0,
+    "throughput" : 87.31283184027136,
+    "receivedKBytesPerSec" : 655.4277241001888,
+    "sentKBytesPerSec" : 16.626955282082925
+  },
+  "Sunstar Home" : {
+    "transaction" : "Sunstar Home",
+    "sampleCount" : 78820,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 46.393529561025105,
+    "minResTime" : 10.0,
+    "maxResTime" : 7665.0,
+    "pct1ResTime" : 33.0,
+    "pct2ResTime" : 37.0,
+    "pct3ResTime" : 46.0,
+    "throughput" : 87.31283184027136,
+    "receivedKBytesPerSec" : 655.4277241001888,
+    "sentKBytesPerSec" : 16.626955282082925
+  }
+}

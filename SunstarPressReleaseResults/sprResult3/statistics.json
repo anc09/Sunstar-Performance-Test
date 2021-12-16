@@ -1,0 +1,32 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 77475,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 45.817179735398156,
+    "minResTime" : 10.0,
+    "maxResTime" : 7983.0,
+    "pct1ResTime" : 28.0,
+    "pct2ResTime" : 32.0,
+    "pct3ResTime" : 42.0,
+    "throughput" : 85.72272639762068,
+    "receivedKBytesPerSec" : 3937.2044928829255,
+    "sentKBytesPerSec" : 13.812743999616613
+  },
+  "Press Release" : {
+    "transaction" : "Press Release",
+    "sampleCount" : 77475,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 45.817179735398156,
+    "minResTime" : 10.0,
+    "maxResTime" : 7983.0,
+    "pct1ResTime" : 28.0,
+    "pct2ResTime" : 32.0,
+    "pct3ResTime" : 42.0,
+    "throughput" : 85.72272639762068,
+    "receivedKBytesPerSec" : 3937.2044928829255,
+    "sentKBytesPerSec" : 13.812743999616613
+  }
+}

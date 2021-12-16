@@ -1,0 +1,32 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 79757,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 51.931792820692884,
+    "minResTime" : 10.0,
+    "maxResTime" : 7084.0,
+    "pct1ResTime" : 58.0,
+    "pct2ResTime" : 64.0,
+    "pct3ResTime" : 86.0,
+    "throughput" : 88.44053381236729,
+    "receivedKBytesPerSec" : 4110.914712837791,
+    "sentKBytesPerSec" : 19.43273448025648
+  },
+  "Healthy Thinking" : {
+    "transaction" : "Healthy Thinking",
+    "sampleCount" : 79757,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 51.931792820692884,
+    "minResTime" : 10.0,
+    "maxResTime" : 7084.0,
+    "pct1ResTime" : 58.0,
+    "pct2ResTime" : 64.0,
+    "pct3ResTime" : 86.0,
+    "throughput" : 88.44053381236729,
+    "receivedKBytesPerSec" : 4110.914712837791,
+    "sentKBytesPerSec" : 19.43273448025648
+  }
+}

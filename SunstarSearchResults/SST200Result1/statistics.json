@@ -1,0 +1,32 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 180188.50000000003,
+    "minResTime" : 180085.0,
+    "maxResTime" : 180482.0,
+    "pct1ResTime" : 180453.1,
+    "pct2ResTime" : 180482.0,
+    "pct3ResTime" : 180482.0,
+    "throughput" : 0.05473993058976801,
+    "receivedKBytesPerSec" : 0.3480101778637195,
+    "sentKBytesPerSec" : 0.011236653720673083
+  },
+  "Sunstar Search" : {
+    "transaction" : "Sunstar Search",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 180188.50000000003,
+    "minResTime" : 180085.0,
+    "maxResTime" : 180482.0,
+    "pct1ResTime" : 180453.1,
+    "pct2ResTime" : 180482.0,
+    "pct3ResTime" : 180482.0,
+    "throughput" : 0.05473993058976801,
+    "receivedKBytesPerSec" : 0.3480101778637195,
+    "sentKBytesPerSec" : 0.011236653720673083
+  }
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.4">
+  <hashTree>
+    <kg.apc.jmeter.timers.VariableThroughputTimer guiclass="kg.apc.jmeter.timers.VariableThroughputTimerGui" testclass="kg.apc.jmeter.timers.VariableThroughputTimer" testname="tpst" enabled="true">
+      <collectionProp name="load_profile">
+        <collectionProp name="1398248530">
+          <stringProp name="49">1</stringProp>
+          <stringProp name="49741">250</stringProp>
+          <stringProp name="1722">60</stringProp>
+        </collectionProp>
+        <collectionProp name="-1897307502">
+          <stringProp name="1542003">250 </stringProp>
+          <stringProp name="1542003">250 </stringProp>
+          <stringProp name="49">1</stringProp>
+        </collectionProp>
+        <collectionProp name="1844403237">
+          <stringProp name="1542003">250 </stringProp>
+          <stringProp name="49">1</stringProp>
+          <stringProp name="1572">15</stringProp>
+        </collectionProp>
+      </collectionProp>
+    </kg.apc.jmeter.timers.VariableThroughputTimer>
+    <hashTree/>
+  </hashTree>
+</jmeterTestPlan>
